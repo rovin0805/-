@@ -33,7 +33,8 @@ $ npm run server
 or
 $ yarn server
 ```
-*3번의 dev server 와 다른 콘솔에서 띄워줍니다.
+
+\*3번의 dev server 와 다른 콘솔에서 띄워줍니다.
 
 5. build + serve
 
@@ -43,6 +44,11 @@ or
 $ yarn serve
 ```
 
-### 질문
+### What to learn
 
-궁금하신 부분은 강의 내 질문 & 답변 게시판 또는 해당 레포지토리의 Issues를 이용해주시기 바랍니다.
+- Light House를 이용한 페이지 검사
+- 이미지 사이즈 최적화
+- Bottleneck 코드 최적화
+- Bundle 파일 탐색
+- Code splitting
+- 텍스트 압축
